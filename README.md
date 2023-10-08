@@ -4,7 +4,6 @@ I'm a web developer recently graduated and am seeking to grow in my sector and k
 Here you can see some of my personal proyects.
 
 ### Get in touch 🌐
-<hr>
 - [LinkedIn](https://www.linkedin.com/in/yoel-villa-8a142723a/)
 - [Personal site](https://www.yoelvilla.dev/)
 
