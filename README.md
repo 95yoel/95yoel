@@ -1,12 +1,11 @@
 ### Hi, I'm Yoel 👋🧑🏽‍💻
-
 <hr>
 
-I'm a web developer recently gratuaded seeking growing on my sector and knowledge.
+I'm a web developer recently gratuaded seeking growing on my sector and knowledge.<br>
 Here you can see some of my personal proyects.
 
 <h1>Get in touch</h1>
-<hr>
+
 
 <!--
 **95yoel/95yoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
