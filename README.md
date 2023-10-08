@@ -6,7 +6,7 @@
 
 <h2 align="center">Get in touch 🌐</h2> 
 
-<a href="https://www.linkedin.com/in/yoel-villa-8a142723a/" align="center">LinkedIn</a>
+<a href="https://www.linkedin.com/in/yoel-villa-8a142723a/" align="center">LinkedIn</a><br>
 <a href="https://www.yoelvilla.dev/" align="center">Personal site</a>
 
 <!--
