@@ -4,7 +4,7 @@
 I'm a web developer recently gratuaded seeking growing on my sector and knowledge.<br>
 Here you can see some of my personal proyects.
 
-<h1>Get in touch</h1>
+<h3 style="color:red;">Get in touch</h3>
 
 
 <!--
