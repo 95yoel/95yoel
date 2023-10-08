@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Yoel 👋🧑🏽‍💻</h1>
 
 <p align="center">I'm a web developer recently graduated and am seeking to grow in my sector and knowledge.</p><br>
-Here you can see some of my personal proyects.
+<p align="center">Here you can see some of my personal proyects.</p>
 
 ### Get in touch 🌐
 - [LinkedIn](https://www.linkedin.com/in/yoel-villa-8a142723a/)
