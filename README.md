@@ -6,8 +6,8 @@
 
 <h2 align="center">Get in touch 🌐</h2> 
 
-<a href="https://www.linkedin.com/in/yoel-villa-8a142723a/" align="center">LinkedIn</a><br>
-<a href="https://www.yoelvilla.dev/" align="center">Personal site</a>
+<a href="https://www.linkedin.com/in/yoel-villa-8a142723a/" align="center"> ⏩ LinkedIn</a><br>
+<a href="https://www.yoelvilla.dev/" align="center"> ⏩ Personal site</a>
 
 <!--
 **95yoel/95yoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
