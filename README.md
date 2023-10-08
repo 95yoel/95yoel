@@ -1,4 +1,4 @@
-<h1 style="color: blue;">Hi, I'm Yoel 👋🧑🏽‍💻</h1>
+<h1 style="color: red;">Hi, I'm Yoel 👋🧑🏽‍💻</h1>
 
 I'm a web developer recently graduated and am seeking to grow in my sector and knowledge.<br>
 Here you can see some of my personal proyects.
