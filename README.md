@@ -1,9 +1,6 @@
 ### Hi, I'm Yoel 👋🧑🏽‍💻
 
-<h1>H</h1>
-<h2>O</h2>
-<h3>L</h3>
-<h4>A</h4>
+
 
 <!--
 **95yoel/95yoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
