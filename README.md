@@ -1,5 +1,4 @@
 <h1>Hi, I'm Yoel 👋🧑🏽‍💻</h1>
-<hr>
 
 I'm a web developer recently gratuaded seeking growing on my sector and knowledge.<br>
 Here you can see some of my personal proyects.
