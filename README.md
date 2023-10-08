@@ -4,9 +4,9 @@
 I'm a web developer recently gratuaded seeking growing on my sector and knowledge.<br>
 Here you can see some of my personal proyects.
 
-<h3 style="color:red;">Get in touch</h3>
-
-
+<h3>Get in touch</h3>
+-  [LinkedIn](https://www.linkedin.com/in/yoel-villa-8a142723a/)
+-  [Personal site](https://www.yoelvilla.dev/)
 <!--
 **95yoel/95yoel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
