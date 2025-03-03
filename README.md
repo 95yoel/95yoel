@@ -1,8 +1,10 @@
 <h1 align="center">Hi, I'm Yoel 👋🧑🏽‍💻</h1>
 
 <p align="center">
-🚀 <strong>Web Developer | Full Stack | Open Source Enthusiast</strong><br>
-Crafting clean, scalable, and high-performance web applications.
+🚀 <strong>Web Developer | Full Stack</strong><br>
+
+<strong>Currently working on new projects to update my skills and explore new technologies.</strong>
+
 </p>
 
 
