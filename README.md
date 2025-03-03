@@ -1,11 +1,8 @@
 <h1 align="center">Hi, I'm Yoel 👋🧑🏽‍💻</h1>
 
-<div style="border: 2px solid #4CAF50; padding: 10px; border-radius: 8px; background-color: #1e1e1e; color: white; text-align: center;">
+> 🚀 **Web Developer | Full Stack**
+> Building clean, scalable, and high-performance applications.
 
-🚀 **Web Developer | Full Stack**  
-Building clean, scalable, and high-performance applications.
-
-</div>
 
 
 <h2 align="center">Get in touch 🌐</h2> 
