@@ -1,4 +1,4 @@
-<h1 align="center" color="#a8506a">Hi, I'm Yoel 👋🧑🏽‍💻</h1>
+<h1 align="center">Hi, I'm Yoel 👋🧑🏽‍💻</h1>
 
 <div align="center">
 🚀 <strong>Web Developer | Full Stack</strong><br>
