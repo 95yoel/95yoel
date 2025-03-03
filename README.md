@@ -3,7 +3,7 @@
 <p align="center">
 🚀 <strong>Web Developer | Full Stack</strong><br>
 
-<strong>Currently working on new projects to update my skills and explore new technologies.</strong>
+<strong align="center">Currently working on new projects to update my skills and explore new technologies.</strong>
 
 </p>
 
