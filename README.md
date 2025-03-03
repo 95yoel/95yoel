@@ -1,9 +1,8 @@
 <h1 align="center">Hi, I'm Yoel 👋🧑🏽‍💻</h1>
 
-<div align="center">
-  🚀 **Web Developer | Frontend & Backend | Tech Enthusiast**
+<div style="text-align:center;">
+  <p>🚀 **Web Developer | Frontend & Backend | Tech Enthusiast**</p>
 </div>
-
 
 <h2 align="center">Get in touch 🌐</h2> 
 
