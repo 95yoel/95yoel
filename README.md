@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Yoel 👋🧑🏽‍💻</h1>
 
-<p align="center">
+<div align="center">
 🚀 <strong>Web Developer | Full Stack</strong><br>
 
-<strong align="center">Currently working on new projects to update my skills and explore new technologies.</strong>
+<strong>Currently working on new projects to update my skills and explore new technologies.</strong>
 
-</p>
+</div>
 
 
 <h2 align="center">Get in touch 🌐</h2> 
