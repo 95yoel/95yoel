@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Yoel 👋🧑🏽‍💻</h1>
 
-<p align="center">I'm a web developer recently graduated and am seeking to grow in my sector and knowledge.</p>
-<p align="center">Here you can see some of my personal proyects.</p>
+🚀 **Web Developer | Frontend & Backend | Tech Enthusiast**
 
 
 <h2 align="center">Get in touch 🌐</h2> 
