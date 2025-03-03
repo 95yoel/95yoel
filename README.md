@@ -12,7 +12,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yoel-villa/">LinkedIn</a><br>
-  <a href="https://www.yoelvilla.dev/">Personal site</a>
 </p>
 
 
