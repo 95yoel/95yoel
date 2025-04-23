@@ -15,6 +15,10 @@
 - Visualizations: Plotly.js, Sigma.js, Chart.js, Graphology  
 - Tools: Git, Docker
 
+📚 **Currently learning:**  
+React Advanced Patterns, Backend with Go and Python, Performance tuning, Rust(for WebAssembly)
+
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yoel-villa/">LinkedIn</a><br>
