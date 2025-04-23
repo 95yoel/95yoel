@@ -11,7 +11,7 @@
 
 <ul>
   <li><strong>Frontend:</strong> Angular, React, TypeScript, Web Workers, IndexedDB</li>
-  <li><strong>Backend (learning & projects):</strong> FastAPI, Golang</li>
+  <li><strong>Backend (learning & projects):</strong> Python(FastAPI), Golang</li>
   <li><strong>Databases:</strong> PostgreSQL, MongoDB</li>
   <li><strong>Visualizations:</strong> Plotly.js, Sigma.js, Chart.js, Graphology</li>
   <li><strong>Tools:</strong> Git, Docker</li>
