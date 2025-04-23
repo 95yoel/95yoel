@@ -18,7 +18,7 @@
 📚 **Currently learning:**  
 React Advanced Patterns, Backend with Go and Python, Performance tuning, Rust(for WebAssembly)
 
-
+# Links
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yoel-villa/">LinkedIn</a><br>
