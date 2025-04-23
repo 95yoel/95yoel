@@ -8,11 +8,33 @@
 </div>
 
 
-<h2 align="center">Get in touch 🌐</h2> 
+🛠️ **Technologies I use:**  
+- Frontend: Angular, React, TypeScript, Web Workers, IndexedDB  
+- Backend (learning & projects): FastAPI, Golang  
+- Databases: PostgreSQL, MongoDB  
+- Visualizations: Plotly.js, Sigma.js, Chart.js, Graphology  
+- Tools: Git, Docker
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yoel-villa/">LinkedIn</a><br>
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <!--
