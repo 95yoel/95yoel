@@ -1,28 +1,29 @@
 <h1 align="center">Hi, I'm Yoel 👋🧑🏽‍💻</h1>
 
 <div align="center">
-🚀 <strong>Web Developer | Full Stack</strong><br>
-
-<strong>Currently working on new projects to update my skills and explore new technologies.</strong>
-
+  <strong>🚀 Web Developer | Full Stack</strong><br/>
+  <em>Currently working on new projects to update my skills and explore new technologies.</em>
 </div>
 
+<br/>
 
-🛠️ **Technologies I use:**  
-- Frontend: Angular, React, TypeScript, Web Workers, IndexedDB  
-- Backend (learning & projects): FastAPI, Golang  
-- Databases: PostgreSQL, MongoDB  
-- Visualizations: Plotly.js, Sigma.js, Chart.js, Graphology  
-- Tools: Git, Docker
+<h3>🛠️ Technologies I use:</h3>
 
-📚 **Currently learning:**  
-React Advanced Patterns, Backend with Go and Python, Performance tuning, Rust(for WebAssembly)
+<ul>
+  <li><strong>Frontend:</strong> Angular, React, TypeScript, Web Workers, IndexedDB</li>
+  <li><strong>Backend (learning & projects):</strong> FastAPI, Golang</li>
+  <li><strong>Databases:</strong> PostgreSQL, MongoDB</li>
+  <li><strong>Visualizations:</strong> Plotly.js, Sigma.js, Chart.js, Graphology</li>
+  <li><strong>Tools:</strong> Git, Docker</li>
+</ul>
 
-# Links
+<h3>📚 Currently learning:</h3>
+<p>React Advanced Patterns, Backend with Go and Python, Performance tuning, Rust (for WebAssembly)</p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/yoel-villa/">LinkedIn</a><br>
-</p>
+<h3>🔗 Links:</h3>
+<ul>
+  <li><a href="https://www.linkedin.com/in/yoel-villa/">LinkedIn</a><br></li>
+</ul>
 
 
 
