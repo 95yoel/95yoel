@@ -28,6 +28,9 @@
 
 ### 🛠️ Technologies & Tools
 
+[![CV](https://img.shields.io/badge/CV-Online%20Resume-blue?logo=read-the-docs&logoColor=white)](https://95yoel.github.io/tu-cv)
+
+
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=ffffff)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=ffffff)
