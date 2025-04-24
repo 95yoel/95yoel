@@ -10,7 +10,7 @@
 <h3>🛠️ Technologies I use:</h3>
 
 <ul>
-  <li><strong>Frontend:</strong> [Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white), React, TypeScript, Web Workers, IndexedDB</li>
+  <li><strong>Frontend:</strong> Angular, React, TypeScript, Web Workers, IndexedDB</li>
   <li><strong>Backend (learning & projects):</strong> Python(FastAPI), Golang</li>
   <li><strong>Databases:</strong> PostgreSQL, MongoDB</li>
   <li><strong>Visualizations:</strong> Plotly.js, Sigma.js, Chart.js, Graphology</li>
