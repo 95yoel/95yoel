@@ -26,6 +26,28 @@
 </ul>
 
 
+### 🛠️ Technologies & Tools
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=ffffff)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![Web Workers](https://img.shields.io/badge/Web%20Workers-Informational?logo=javascript&logoColor=white)
+![IndexedDB](https://img.shields.io/badge/IndexedDB-004080?logo=database&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=ffffff)
+![Golang](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=ffffff)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=ffffff)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=ffffff)
+
+![Plotly.js](https://img.shields.io/badge/Plotly.js-3F4F75?logo=plotly&logoColor=ffffff)
+![Sigma.js](https://img.shields.io/badge/Sigma.js-1A1A1A?logo=webcomponents.org&logoColor=ffffff)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=ffffff)
+![Graphology](https://img.shields.io/badge/Graphology-555555?logo=graphql&logoColor=ffffff)
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=ffffff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=ffffff)
 
 
 
