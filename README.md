@@ -23,7 +23,7 @@
 <h3>🔗 Links:</h3>
 <ul>
   <li><a href="https://www.linkedin.com/in/yoel-villa/">LinkedIn</a><br></li>
-  <li><a href="mailto:'hello@yoelvilla.dev'">hello@yoelvilla.dev</a></li>
+  <li><a href="mailto:hello@yoelvilla.dev?subject=Contacto%20desde%20GitHub">hello@yoelvilla.dev</a></li>
 </ul>
 
 
