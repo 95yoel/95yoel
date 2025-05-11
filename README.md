@@ -22,8 +22,10 @@
 
 <h3>🧰 Projects:</h3>
 <ul>
-  <li>[`ts-logger`](https://github.com/95yoel/ts-logger) – A lightweight TypeScript logger with styles, context, timers & JSON output.</li>
+  <li><a href="https://github.com/95yoel/ts-logger">ts-logger</a> – A lightweight TypeScript logger with styles, context, timers & JSON output.</li>
 </ul>
+
+
 <h3>🔗 Links:</h3>
 <ul>
   <li><a href="https://www.linkedin.com/in/yoel-villa/">LinkedIn</a><br></li>
