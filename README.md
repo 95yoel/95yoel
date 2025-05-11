@@ -20,6 +20,9 @@
 <h3>📚 Currently learning:</h3>
 <p>React Advanced Patterns, Backend with Go and Python, Performance tuning, Rust (for WebAssembly)</p>
 
+🧰 Projects: [`ts-logger`](https://github.com/95yoel/ts-logger) – A lightweight TypeScript logger with styles, context, timers & JSON output.
+
+
 <h3>🔗 Links:</h3>
 <ul>
   <li><a href="https://www.linkedin.com/in/yoel-villa/">LinkedIn</a><br></li>
