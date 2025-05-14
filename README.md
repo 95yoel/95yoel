@@ -24,10 +24,18 @@
 <ul>
   <li>
    <a href="https://github.com/95yoel/ts-logger">TS-LOGGER</a> – 
-    A lightweight TypeScript logger with styles, context, timers & JSON output.
+    A lightweight TypeScript logger with styles, context, timers,JSON output &more.
     <br><br>
     <a href="https://github.com/95yoel/ts-logger/actions/workflows/pipeline.yml">
       <img src="https://github.com/95yoel/ts-logger/actions/workflows/pipeline.yml/badge.svg" alt="CI Status">
+    </a>
+  </li>
+  <li>
+   <a href="https://github.com/95yoel/Angular19-starter">Angular19 Starter</a> – 
+    Minimal Angular starter with theme switching, i18n, error handling, CI/CD, ESLint, and custom logger integration.
+    <br><br>
+    <a href="https://github.com/95yoel/Angular19-starter/actions/workflows/ci.yml">
+      <img src="https://github.com/95yoel/Angular19-starter/actions/workflows/ci.yml/badge.svg" alt="CI Status">
     </a>
   </li>
 </ul>
