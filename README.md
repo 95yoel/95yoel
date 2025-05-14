@@ -65,7 +65,8 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=ffffff)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-A8B9CC?logo=githubactions&logoColor=white)
+![CI Pipeline](https://img.shields.io/badge/GitHub%20Actions-CI--Pipeline-2088FF?logo=githubactions&logoColor=white)
+
 
 
 
