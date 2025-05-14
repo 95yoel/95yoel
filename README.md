@@ -25,7 +25,10 @@
   <li>
     <a href="https://github.com/95yoel/ts-logger"><strong>TS-LOGGER</strong></a> –
     A lightweight TypeScript logger with styles, context, timers & JSON output.
-    <img src="https://github.com/95yoel/ts-logger/actions/workflows/pipeline.yml/badge.svg" alt="CI Status">
+     <br>
+    <a href="https://github.com/95yoel/ts-logger/actions/workflows/pipeline.yml">
+      <img src="https://github.com/95yoel/ts-logger/actions/workflows/pipeline.yml/badge.svg" alt="CI Status">
+    </a>
   </li>
 </ul>
 
