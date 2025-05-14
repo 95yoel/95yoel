@@ -23,6 +23,10 @@
 <h3>🧰 Projects:</h3>
 <ul>
   <li><a href="https://github.com/95yoel/ts-logger">ts-logger</a> – A lightweight TypeScript logger with styles, context, timers & JSON output.</li>
+  <br>
+  <a href="https://github.com/95yoel/ts-logger/actions/workflows/pipeline.yml">
+      <img src="https://github.com/95yoel/ts-logger/actions/workflows/pipeline.yml/badge.svg" alt="CI Status">
+    </a>
 </ul>
 
 
