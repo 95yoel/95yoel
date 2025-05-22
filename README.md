@@ -38,6 +38,15 @@
       <img src="https://github.com/95yoel/Angular19-starter/actions/workflows/ci.yml/badge.svg" alt="CI Status">
     </a>
   </li>
+  <li>
+  <a href="https://github.com/95yoel/slope_calc">SlopeCalc</a> – 
+  Web-based slope gradient calculator for runners and hikers. Built with vanilla TypeScript and Web Components. Mobile-friendly and GitHub Pages deployed.
+  <br><br>
+  <a href="https://github.com/95yoel/slope_calc/actions/workflows/deploy.yml">
+    <img src="https://github.com/95yoel/slope_calc/actions/workflows/deploy.yml/badge.svg" alt="CI Status">
+  </a>
+</li>
+
 </ul>
 
 
