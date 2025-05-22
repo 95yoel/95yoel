@@ -41,11 +41,14 @@
   <li>
   <a href="https://github.com/95yoel/slope_calc">SlopeCalc</a> – 
   Web-based slope gradient calculator for runners and hikers. Built with vanilla TypeScript and Web Components. Mobile-friendly and GitHub Pages deployed.
+  <br>
+  🔗 <a href="https://95yoel.github.io/slope_calc/" target="_blank">Live demo</a>
   <br><br>
   <a href="https://github.com/95yoel/slope_calc/actions/workflows/deploy.yml">
     <img src="https://github.com/95yoel/slope_calc/actions/workflows/deploy.yml/badge.svg" alt="CI Status">
   </a>
 </li>
+
 
 </ul>
 
