@@ -18,7 +18,8 @@
 </ul>
 
 <h3>📚 Currently learning:</h3>
-<p>React Advanced Patterns, Backend with Go and Python, Performance tuning, Rust (for WebAssembly)</p>
+<p>Architecture patterns, design principles, CI/CD workflows, backend development with Go and Python, and performance optimization techniques.
+</p>
 
 <h3>🧰 Projects:</h3>
 <ul>
