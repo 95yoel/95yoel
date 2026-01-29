@@ -63,6 +63,7 @@ Architecture patterns, design principles, CI/CD workflows and backend developmen
 
 <h3>🔗 Links:</h3>
 <ul>
+  <li><a href="https://yoelvilla.dev">Portfolio</a><br></li>
   <li><a href="https://www.linkedin.com/in/yoel-villa/">LinkedIn</a><br></li>
   <li><a href="mailto:hello@yoelvilla.dev?subject=Hello!">hello@yoelvilla.dev</a></li>
 </ul>
