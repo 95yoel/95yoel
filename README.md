@@ -23,9 +23,10 @@ Minimalist portfolio focused on UX, navigation design and serverless architectur
   <li><strong>Tools:</strong> Git, Docker</li>
 </ul>
 
-<h3>📚 Currently learning:</h3>
-<p>Architecture patterns, design principles, CI/CD workflows, backend development with Go and Python, and performance optimization techniques.
-</p>
+### 📚 Currently exploring
+
+Architecture patterns, design principles, CI/CD workflows and backend development with Go & Python.
+
 
 <h3>🧰 Projects:</h3>
 <ul>
