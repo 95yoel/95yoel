@@ -2,10 +2,16 @@
 
 <div align="center">
   <strong>🚀 Web Developer | Full Stack</strong><br/>
-  <em>Currently working on new projects to update my skills and explore new technologies.</em>
+  <em>Focused on clean architecture, UX-driven interfaces and performance-oriented solutions.</em>
 </div>
 
 <br/>
+
+### 🌐 Portfolio
+
+👉 https://yoelvilla.dev  
+Minimalist portfolio focused on UX, navigation design and serverless architecture.
+
 
 <h3>🛠️ Technologies I use:</h3>
 
